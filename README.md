@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-I'm an undergraduate student 👨‍🎓 (Senior 👨‍🦳) at the Universitty of Pennsylvania's School of Engineering & Applied Sciences :classical_building:
+I'm an undergraduate student 👨‍🎓 (senior 👨‍🦳) at the Universitty of Pennsylvania's School of Engineering & Applied Sciences :classical_building:
 
-I'm majoring in Computer & Information Sciences 💻, minoring in Mathematics :abacus: & Engineering Entrepreneurship :hammer_and_wrench::bar_chart:
+I'm majoring in Computer & Information Sciences 💻 and minoring in Mathematics :abacus: & Engineering Entrepreneurship :hammer_and_wrench::bar_chart:
 
 - 🔭 I’m currently working on developing fun software projects to boost productivity 📈
 - 🌱 I’m currently learning best practises for software development :desktop_computer:
